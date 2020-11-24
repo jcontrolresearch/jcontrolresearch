@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I'm Julio Martinez</h1>
 <h5 align="center">A passionate Algorithm Engineer located temporally in Earth, Solar System :earth_americas: :milky_way:</h3>
 
-- 🔭 I’m currently working on **Algorithm Dev for International Automotive Company**
+- 🔭 I’m currently working on **Algorithm Eng for International Automotive Company**
 - 🌱 I’m currently learning **IA** + **Deep learning & Computer Vision** + **Interactive Py Dashboards (Dash&Plotly)**
 - 💬 Ask me about **Python/Dash/Flask/MATLAB/Simulink/Control Theory**
 - 📫 How to reach me: jcmr.ee.91@gmail.com
