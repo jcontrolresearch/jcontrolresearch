@@ -14,7 +14,7 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
   <a href="https://octave.sourceforge.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" alt="octave" width="40" height="40"/> </a> 
-  <a href="https://ipg-automotive.com/" target="_blank"> <img src="https://press.ipg-automotive.com/fileadmin/_processed_/3/6/csm_IPG_Automotive_Logo_Presse_CMYK_86ac76c353.jpg" alt="ipg" width="40" height="40"/> </a> 
+  <a href="https://ipg-automotive.com/" target="_blank"> <img src="https://www.ipg-automotive.com/typo3conf/ext/ipg_provider/Resources/Public/theme/assets/images/ipg-automotive-logo-v2.svg" alt="ipg" width="40" height="40"/> </a> 
   <a href="https://carla.org//" target="_blank"> <img src="https://carla.org//img/logo/carla-black-m.png" alt="carla" width="40" height="40"/> </a> 
    <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/> </a> 
