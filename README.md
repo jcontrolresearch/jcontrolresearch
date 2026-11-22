@@ -13,7 +13,8 @@
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/></a>
-  <a href="https://carla.org/" target="_blank"><img src="https://img.shields.io/badge/CARLA-Open-source-lightgrey?logo=car" alt="CARLA"/></a>
+  <a href="https://carla.org/" target="_blank"><img src="https://img.shields.io/badge/CARLA-Simulator-3C3C3C?style=for-the-badge&logo=unrealengine&logoColor=white" alt="CARLA simulator"/></a>
+  <a href="https://www.ipg-automotive.com/" target="_blank"><img src="https://img.shields.io/badge/IPG-CarMaker-005A9C?style=for-the-badge" alt="IPG CarMaker"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
